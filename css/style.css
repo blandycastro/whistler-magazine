@@ -720,6 +720,9 @@ ul.glacier-pubs li {
 .svg-fill:hover {
     fill: rgba(255,255,255,0.75);
 }
+.svg-fill path:hover {
+    fill: rgba(255,255,255,0.75);
+}
 
 /* Copyright */
 #copyright {
