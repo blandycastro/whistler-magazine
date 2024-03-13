@@ -713,18 +713,11 @@ ul.glacier-pubs li {
     max-height: 40px;
     vertical-align: middle;
 }
-.svg-fill {
+.svg-fill path{
     fill: rgba(255,255,255,0.2);
     transition: fill ease 750ms;
 }
-.svg-fill:hover {
-    fill: rgba(255,255,255,0.75);
-}
-.squamish-svg path{
-    fill: rgba(255,255,255,0.2);
-    transition: fill ease 750ms;
-}
-.squamish-svg path:hover {
+.svg-fill path:hover {
     fill: rgba(255,255,255,0.75);
 }
 
