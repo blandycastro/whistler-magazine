@@ -720,7 +720,11 @@ ul.glacier-pubs li {
 .svg-fill:hover {
     fill: rgba(255,255,255,0.75);
 }
-.svg-fill path:hover {
+.squamish-svg path{
+    fill: rgba(255,255,255,0.2);
+    transition: fill ease 750ms;
+}
+.squamish-svg path:hover {
     fill: rgba(255,255,255,0.75);
 }
 
