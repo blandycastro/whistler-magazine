@@ -52,7 +52,7 @@
             <h2>General Enquiries</h2>
 
             <h4>Address</h4>
-            <p>#103-1390 Alpha Lake Road, Whistler, B.C., V8E 0H9, Canada</p>
+            <p>#202-1390 Alpha Lake Road, Whistler, B.C., V8E 0H9, Canada</p>
             <p>Phone: +1 (604) 938-0202</p>
 
             <p>Whistler Magazine (ISSN-0835-5460) is published twice annually by <a target="_blank" href="http://www.glaciermedia.ca">Glacier Media Group</a>.</p>
