@@ -28,9 +28,8 @@
 
 <section class="intro">
     <div class="branding">
-        <h1><a href="index.php"><img src="images/logo-wm.svg" alt="Whistler Magazine logo" /></a></h1>
+        <h1><a href="index.php"><img src="images/WhistlerGuidedBylogo.png" alt="Whistler Magazine logo" /></a></h1>
         </a></h1>
-        <span class="tagline">Whistler's Premier Publication Since 1980</span>
     </div>
 </section>
 <div id="main">
@@ -38,11 +37,15 @@
     <header>
       <div id="main2">
         <div id="content2" class="full-width">
-          <header> <a href="https://issuu.com/whistlerpublishing/docs/wm_w23_final_web" target="_blank"><img class="cover" src="/images/covers/wm-cover-w2023.jpg" alt="Whistler Magazine Winter 2023 cover" /></a>
-            <h1>Welcome to Whistler Magazine</h1>
+          <header> <a href="https://issuu.com/whistlerpublishing/docs/wm_w24_web" target="_blank"><img class="cover" src="/images/covers/WMagW23_24Cover.jpg" alt="Whistler Magazine Winter 2024 cover" /></a>
           </header>
-          <p><em>Whistler Magazine</em> is the award-winning premier publication in North America's #1 Ski Resort, hosting over 2 million visitors annually. We publish 30,000 glossy full-colour magazines twice a year.</p>
-          <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/wm_w23_final_web" target="_blank">Read The Latest Issue</a></p>
+          <p><strong>Whistler Magazine</strong> is the award-winning premier publication in North America's #1 Ski Resort, hosting over 2 million visitors annually. We publish 33,000 glossy full-colour magazines twice a year.</p>
+          <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/wm_w24_web" target="_blank">Read The Latest Issue</a></p>
+          <hr />
+          <img src="visitwhistlerspotlight.svg"/>
+          <p class="subtitle"> Marketing to visitors before they arrive!</p>
+          <p class="hp_paragraph"><strong>Whistler Magazine</strong> advertisers are also published in the <strong>Visit Whistler</strong> online digital directory
+        on <a href="https://www.guidedby.ca/visit-whistler"> GuidedBy.ca, </a>reaching visitors continously for the six-month period with a digital profile and links to the businesses</p>
           <hr />
           <div class="row3 clearfix">
             <section> <span class="pennant"><span class="fa fa-file-o"></span></span>
@@ -53,7 +56,7 @@
             <section> <span class="pennant"><span class="fa fa-bullseye"></span></span>
               <h2>Advertising</h2>
               <p>Download our Media Kit:<br />
-                <span class="fa fa-download"></span> <a href="downloads/WhistlerMagazine-MediaKit-w23.pdf" target="_blank">PDF, 2.65MB</a></p>
+                <span class="fa fa-download"></span> <a href="downloads/WMag-S24-Media-Kit.pdf" target="_blank">PMS, 2.3MB</a></p>
               <a href="media-kit.php" class="button button-style1">Read More</a> </section>
             <section> <span class="pennant"><span class="fa fa-map-marker"></span></span>
               <h2>Distribution</h2>

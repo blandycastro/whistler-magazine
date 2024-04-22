@@ -44,6 +44,14 @@
             <p>Click the cover to launch the issue in a new window or tab.</p>
 
             <div id="back_issues" class="flex-container">
+            <div class="issue">
+                    <a href="https://issuu.com/whistlerpublishing/docs/wm_w24_web" target="_blank"><img class="cover" src="/images/covers/WMagW23_24Cover.jpg" alt="Click to view past issue" /></a>
+                    <p>Winter 2023</p>
+				</div>
+            <div class="issue">
+                    <a href="https://issuu.com/whistlerpublishing/docs/wm_w24_web" target="_blank"><img class="cover" src="/images/covers/WMagS23Cover.jpg" alt="Click to view past issue" /></a>
+                    <p>Summer 2023</p>
+				</div>
 				<div class="issue">
                     <a href="https://issuu.com/whistlerpublishing/docs/wm_s22_web" target="_blank"><img class="cover" src="/images/covers/wm-cover-s2022-343x410.jpg" alt="Click to view past issue" /></a>
                     <p>Summer 2022</p>

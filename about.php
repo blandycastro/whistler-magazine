@@ -40,7 +40,7 @@
         </header>
         <article>
             <h2>The Magazine</h2>
-            <p><em>Whistler Magazine</em> is the award-winning premier publication in North America's Top Ski Resort, hosting over 2 million visitors annually. We publish a minimum of 30,000 glossy full-colour magazines twice each year.</p>
+            <p><em>Whistler Magazine</em> is the award-winning premier publication in North America's Top Ski Resort, hosting over 2 million visitors annually. We publish a minimum of 33,000 glossy full-colour magazines twice each year.</p>
 			<p>We also have distribution outside of market with 10,000 copies going directly to Lower Mainland homes – delivered to homes in postal codes with HHI (High Household Income) demographics matching Whistler’s regional visitor target audience in West Vancouver, North Vancouver and Downtown Vancouver.</p>
             <p>The Winter/Spring issue is on the stands in mid November, prior to the U.S. Thanksgiving weekend. The Summer/Fall issue is on the stands in mid May, prior to the Victoria Day long weekend.</p>
             <p>The <a href="distribution.php">distribution</a> is impressive. Whistler Magazine is distributed to all Whistler hotels, many directly in rooms.</p>
@@ -50,7 +50,7 @@
             <h2>Our Team</h2>
 
             <h3>Sarah Strother<br />
-            <span class="staff-title">Publisher / President, Whistler Publishing LP</span></h3>
+            <span class="staff-title">Publisher / President</span></h3>
 
             <h3>Catherine Power-Chartrand<br />
             <span class="staff-title">General Manager / Advertising and Operations</span></h3>

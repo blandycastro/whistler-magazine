@@ -39,10 +39,8 @@
         </header>
         <article>
             <section>
-                <h2>Print</h2>
-                <h3>Whistler Magazine Media Kit</h3>
-                <p>Download our <a href="downloads/WhistlerMagazine-MediaKit-w23.pdf">Whistler Magazine Media Kit</a> for full information on advertising opportunities and print production specifications.</p>
-                <p><span class="fa fa-download"></span> <a href="downloads/WhistlerMagazine-MediaKit-w23.pdf" target="_blank">PDF</a></p>
+                <p>Download our <a href="downloads/WMag-S24-Media-Kit.pdf">Whistler Magazine Media Kit</a> for full information on advertising opportunities and print production specifications.</p>
+                <p><span class="fa fa-download"></span> <a href="downloads/WMag-S24-Media-Kit.pdf" target="_blank">PDF</a></p>
                 <h2>Online</h2>
                 <p>For online advertising rates or more information, please contact:</p>
                 <h3>Catherine Power-Chartrand<br />

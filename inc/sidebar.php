@@ -8,11 +8,13 @@
     	</div>
     </div>
     <div class="widget advertise">
-        <a target="_blank" href="https://issuu.com/whistlerpublishing/docs/wm_w23_final_web"><img class="cover" src="/images/covers/wm-cover-w2023.jpg" alt="Whistler Magazine Winter 2022" /></a>
+        <a target="_blank" href="https://issuu.com/whistlerpublishing/docs/wm_w24_web"><img class="cover" src="/images/covers/WMagW23_24Cover.jpg" alt="Whistler Magazine Winter 2024" /></a>
         <h2>Advertise with<br /> Whistler Magazine</h2>
         <p><a href="media-kit.php" class="button button-style1">Contact</a></p>
     </div>
-    <div class="widget twitter">
-        <a class="twitter-timeline" href="https://twitter.com/WhistlersMag" data-widget-id="524292854873485314">Tweets by @WhistlersMag</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <div class="widget guidedby">
+        <a href="https://www.guidedby.ca/visit-whistler"> 
+            <img src="images/guidedby_logo.svg"/>
+        </a>
     </div>
 </div>
