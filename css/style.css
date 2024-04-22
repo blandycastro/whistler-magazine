@@ -935,3 +935,13 @@ ul.glacier-pubs li {
 }
 
 }
+
+.img-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-wrapper img{
+    width: 50%;
+}
