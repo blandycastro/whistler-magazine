@@ -42,7 +42,7 @@
           <p><strong>Whistler Magazine</strong> is the award-winning premier publication in North America's #1 Ski Resort, hosting over 2 million visitors annually. We publish 33,000 glossy full-colour magazines twice a year.</p>
           <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/wm_w24_web" target="_blank">Read The Latest Issue</a></p>
           <hr />
-          <img src="visitwhistlerspotlight.svg"/>
+          <img src="images/visitwhistlerspotlight.svg"/>
           <p class="subtitle"> Marketing to visitors before they arrive!</p>
           <p class="hp_paragraph"><strong>Whistler Magazine</strong> advertisers are also published in the <strong>Visit Whistler</strong> online digital directory
         on <a href="https://www.guidedby.ca/visit-whistler"> GuidedBy.ca, </a>reaching visitors continously for the six-month period with a digital profile and links to the businesses</p>
