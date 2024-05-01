@@ -51,7 +51,8 @@
 
             <h3>Sarah Strother<br />
             <span class="staff-title">Publisher / President</span></h3>
-
+            <span class="staff-title">Pacific Coast Publications</span></h3>
+            
             <h3>Catherine Power-Chartrand<br />
             <span class="staff-title">General Manager / Advertising and Operations</span></h3>
 
