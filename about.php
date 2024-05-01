@@ -50,7 +50,7 @@
             <h2>Our Team</h2>
 
             <h3>Sarah Strother<br />
-            <span class="staff-title">Publisher / President</span>
+            <span class="staff-title">Publisher / President</span><br />
             <span class="staff-title">Pacific Coast Publications</span></h3>
 
             <h3>Catherine Power-Chartrand<br />

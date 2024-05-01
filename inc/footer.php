@@ -8,7 +8,7 @@
         </ul>
     </div>
     <div id="copyright">
-        <p>Whistler Magazine is published by <a href="http://www.whistlerpublishinglp.com" target="_blank">Pacific Coastal Publications LP</a>, a division of <a href="http://www.glaciermedia.ca" target="_blank">Glacier Media Group</a>.</p>
+        <p>Whistler Magazine is published by <a href="https://issuu.com" target="_blank">Pacific Coastal Publications LP</a>, a division of <a href="http://www.glaciermedia.ca" target="_blank">Glacier Media Group</a>.</p>
         <p>&copy;1980&ndash;<?php echo date('Y') ?> Pacific Coastal Publications LP. All rights reserved. <a href="mailto:info@whistlermagazine.com">info@whistlermagazine.com</a>
         </p>
     </div>
