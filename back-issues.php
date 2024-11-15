@@ -45,6 +45,10 @@
 
             <div id="back_issues" class="flex-container">
             <div class="issue">
+                    <a href="https://issuu.com/whistlerpublishing/docs/wm_s24_web" target="_blank"><img class="cover" src="/images/covers/WMS24cover.jpg" alt="Click to view past issue" /></a>
+                    <p>Summer 2024</p>
+				</div>
+            <div class="issue">
                     <a href="https://issuu.com/whistlerpublishing/docs/wm_w23_final_web" target="_blank"><img class="cover" src="/images/covers/wm-cover-w2023.jpg" alt="Click to view past issue" /></a>
                     <p>Winter 2023</p>
 				</div>
