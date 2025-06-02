@@ -1,4 +1,4 @@
-<!doctyle html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Whistler's Premier Publication Since 1980 | Whistler Magazine | Current Issue</title>
@@ -19,11 +19,60 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 <script src="http://tcadops.ca/rephouse/adtagtc_v2.js"></script>
 <script src="/js/googletags.js" type="text/javascript"></script>
+<style>
+#main {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 40px;
+    width: 100%;
+    box-sizing: border-box;
+}
+#content {
+    max-width: 600px;
+    width: 100%;
+    margin-top: 60px;
+}
+#sidebar {
+    width: 320px;
+    margin-top: -90px !important;
+    align-self: flex-start !important;
+}
+
+@media (max-width: 900px) {
+    #main {
+        flex-direction: column;
+        gap: 0;
+    }
+    #content {
+        margin-top: 20px;
+        max-width: 100%;
+        width: 100%;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    #content article {
+        margin-bottom: 0;
+    }
+    #content article > p:nth-of-type(1) {
+        margin-bottom: 1em;
+    }
+    #content article > p:nth-of-type(2) {
+        margin-bottom: 5px;
+    }
+    #sidebar {
+        width: 100%;
+        margin-top: 15px !important;
+        align-self: stretch !important;
+    }
+}
+
+</style>
 </head>
 
 <body class="current-issue">
 <?php include_once('inc/analyticstracking.php') ?>
-
 <?php include_once('inc/header.php') ?>
 
 <section class="intro">
@@ -39,8 +88,8 @@
             <h1>Whistler Magazine Current Issue</h1>
         </header>
         <article>
-            <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_summer_2025" target="_blank">Read The Latest Issue</a></p>
-            <p><button class="button" id="toggleStoryButton">Read Four Decades of Telling Whistler’s Stories</button></p>
+            <p><a class="button" href="https://issuu.com/whistlerpublishing/docs/whistler_magazine_summer_2025" target="_blank">READ THE LATEST ISSUE</a></p>
+            <p><button class="button" id="toggleStoryButton">READ FOUR DECADES OF TELLING WHISTLER’S STORIES</button></p>
 
             <div id="storyContent" style="display: none;">
                 <div class="story-content">
@@ -105,23 +154,24 @@
                                 $('#toggleStoryButton').text('Close Story');
                                 $('#toggleStoryButtonBottom').show();
                             } else {
-                                $('#toggleStoryButton').text('Read Four Decades of Telling Whistler’s Stories');
+                                $('#toggleStoryButton').text('READ FOUR DECADES OF TELLING WHISTLER’S STORIES');
                                 $('#toggleStoryButtonBottom').hide();
                             }
                         });
                     }
-
                     $('#toggleStoryButton').click(function() {
                         toggleStory();
                     });
-
                     $('#toggleStoryButtonBottom').click(function() {
                         toggleStory();
                     });
                 });
             </script>
+        </article>
     </div>
-    <?php include_once('inc/sidebar.php') ?>
+    <div id="sidebar">
+        <?php include_once('inc/sidebar.php'); ?>
+    </div>
 </div>
 
 <?php include_once('inc/footer.php') ?>
