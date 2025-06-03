@@ -14,10 +14,10 @@
 <meta property="og:description" content="Whistler's premier publication since 1980." />
 <link rel='stylesheet' href='css/style.css' type='text/css'>
 <link rel='stylesheet' href='css/meanmenu.css' type='text/css'>
-<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Arvo:400,700|Raleway:400,700' type='text/css'>
-<link rel='stylesheet' href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' type='text/css'>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-<script src="http://tcadops.ca/rephouse/adtagtc_v2.js"></script>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Arvo:400,700|Raleway:400,700' type='text/css'>
+<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' type='text/css'>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="https://tcadops.ca/rephouse/adtagtc_v2.js"></script>
 <script src="/js/googletags.js" type="text/javascript"></script>
 <style>
 #main {
