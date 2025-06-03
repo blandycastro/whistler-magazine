@@ -73,8 +73,8 @@
             $20 within Canada, $30 to the USA, $45 overseas.<br />
             Call to charge to VISA, MasterCard or American Express.</p>
 
-            <p>Copyright © by Glacier Media Group. All rights reserved. No part of this magazine may be reproduced in any form without prior written permission of the publisher.</p>
-            <p>Whistler Magazine (ISSN-0835-5460) is published twice annually by <a target="_blank" href="http://www.glaciermedia.ca">Glacier Media Group</a>.</p>
+            <p>Copyright © by Lodestar Media. All rights reserved. No part of this magazine may be reproduced in any form without prior written permission of the publisher.</p>
+            <p>Whistler Magazine (ISSN-0835-5460) is published twice annually by <a target="_blank" href="http://www.glaciermedia.ca">Lodestar Media</a>.</p>
 
         </article>
     </div>

@@ -8,8 +8,8 @@
         </ul>
     </div>
     <div id="copyright">
-        <p>Whistler Magazine is published by Pacific Coastal Publications LP, a division of <a href="http://www.glaciermedia.ca" target="_blank">Glacier Media Group</a>.</p>
-        <p>&copy;1980&ndash;<?php echo date('Y') ?> Pacific Coastal Publications LP. All rights reserved. <a href="mailto:info@whistlermagazine.com">info@whistlermagazine.com</a>
+        <p>Whistler Magazine is published by Lodestar Media LP, a division of <a href="https://www.lodestarmedia.ca/digital" target="_blank">Lodestar Media</a>.</p>
+        <p>&copy;1980&ndash;<?php echo date('Y') ?> Lodestar Media LP. All rights reserved. <a href="mailto:info@whistlermagazine.com">info@whistlermagazine.com</a>
         </p>
     </div>
 </footer>

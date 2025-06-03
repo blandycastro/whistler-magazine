@@ -141,7 +141,7 @@
                     <p>“Our purpose is to honour and celebrate the magnitude of Whistler’s rugged environment and the bold and adventurous spirit of the people who love it,” she adds.</p>
                     <p>For Whistler Magazine that, in turn, means many more stories about the people who live and visit here and the special place they call Whistler.</p>
                     <p>By: Whistler Magazine</p>
-                    <p><a href="https://www.guidedby.ca" target="_blank">GuidedBy</a> is a community builder and part of the Glacier Media news network. This article originally appeared on a Glacier Media publication.</p>
+                    <p><a href="https://www.guidedby.ca" target="_blank">GuidedBy</a> is a community builder and part of the Lodestar Media news network. This article originally appeared on a Lodestar Media publication.</p>
                 </div>
                 <p><button class="button" id="toggleStoryButtonBottom" style="display: none;">Close Story</button></p>
             </div>
